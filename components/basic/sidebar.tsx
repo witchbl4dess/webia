@@ -66,7 +66,7 @@ const Sidebar = () => {
                         <Image
                             fill
                             alt="logo"
-                            src="/birdlogo.png"
+                            src="/iaicon.png"
                         />
                     </div>
                     <h1 className={cn("text-2xl font-bold", montserrat.className)}>
